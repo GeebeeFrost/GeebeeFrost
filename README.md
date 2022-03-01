@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GeebeeFrost
-- 👀 I’m interested in application development and backend web development
-- 🌱 I’m currently learning how to build Django web apps
-- 💞️ I’m looking to collaborate on backend development
+- 👀 I’m interested in application development and web development
+- 🌱 I’m currently learning a lot of stuff about Angular
 - 📫 How to reach me ... by e-mail: omgbolahan1@gmail.com
 
 <!---
